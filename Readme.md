@@ -5,7 +5,7 @@ Este es un ejemplo de un archivo `README.md` que muestra diferentes tipos de for
 
 
 ## Tipos de Formato de Texto
-
+  
 
 ### 1. Negrita
 
