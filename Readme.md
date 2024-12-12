@@ -149,3 +149,5 @@ Puedes crear títulos de diferentes niveles usando el símbolo `#`:
 ## Conclusión
 
 Este es un ejemplo básico de cómo usar diferentes tipos de formato en un archivo `README.md`. Puedes combinar estos estilos para crear documentos más complejos y atractivos.
+
+:)
