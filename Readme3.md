@@ -1,3 +1,32 @@
+Crear un repositorio en local:
+
+ 1.Por consola creamos una nueva carpeta con `mkdir` Cod ( en vez de cod el nombre que tu
+ quieras)
+ 
+ 2.Iniciamos git dentro de ella con: `git init`
+ 
+ 3.Comprobamos si se inició git con : `git status`, si aparece un “fatal” no se creó correctamente
+ (además si queremos subir un proyecto a github debemos seguir estos 3 primeros pasos)
+ 
+ Luego para subirlo hacemos un git/add y git/commit-file dentro de intellij, pegamos el link del
+ repositorio de github nuevo que creamos y por último en la pestaña de git dentro de nuestro
+ proyecto en `intellij` , hacemos Push y listo
+ 
+ ____________________________________________________________________________
+ 
+ opcional:
+ 
+ Si deseamos crear un readme desde consola , dentro de la carpeta anteriormente creada
+ usamos:
+ 
+`echo “entre comillas escribimos que quieres que diga el readme” >> README.md`
+ 
+ y ahora lo añadimos al proyecto con: `git add README.md` y comprobamos en `git status` si se
+ aplicó correctamente, aparece en verde si se aplica correctamente
+ 
+ Y le hacemos un commit: `git commit -m ”como quieres llamar al commit”` y podremos volver
+ a comprobar con un `git log`
+ 
 markdown
 
 # Cambiar la URL del Repositorio Remoto en IntelliJ IDEA
